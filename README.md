@@ -25,7 +25,7 @@ Hata Yönetimi:
 
 Özel veya genel anahtarların oluşturulması veya dosyaya yazılması sırasında herhangi bir hata meydana gelirse, bu hatalar terminale yazdırılır ve program sonlandırılır.
 Adımlar:
-Sinyal Yakalama (SIGINT, SIGTERM):
+Sinyal Yakalama (SıgnInt):
 
 Program başlar başlamaz bir goroutine içinde Ctrl + C sinyallerini yakalamaya başlar. Kullanıcı bu sinyali gönderdiğinde, program temiz bir şekilde kapanacaktır.
 RSA Anahtarı Oluşturma:
