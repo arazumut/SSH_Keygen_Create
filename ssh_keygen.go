@@ -41,6 +41,7 @@ func main() {
 	if err != nil {
 		fmt.Println("Özel anahtar dosyası oluşturulamadı:", err)
 		return
+		
 	}
 	defer privateKeyFile.Close()
 
