@@ -28,7 +28,7 @@ Hata Yönetimi:
 Adımlar:
 Sinyal Yakalama (SıgnInt):
 
-Program başlar başlamaz bir goroutine içinde Ctrl + C sinyallerini yakalamaya başlar. Kullanıcı bu sinyali gönderdiğinde, program temiz bir şekilde kapanacaktır.
+Program başlar başlamaz bir goroutine içinde Ctrl + C sinyallerini yakalamaya başlar. Kullanıcı bu sinyali gönderdiğinde, program kapanacaktır.
 RSA Anahtarı Oluşturma:
 
 Program, 2048 bitlik bir RSA özel anahtarı oluşturur ve bir dosyaya PEM formatında yazar.
