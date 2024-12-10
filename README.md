@@ -16,6 +16,7 @@ Program, 2048 bitlik bir RSA özel anahtar (private key) oluşturur.
 Bu özel anahtardan bir SSH uyumlu genel anahtar (public key) üretir.
 Anahtarları Dosyaya Yazma:
 
+
 Özel anahtar, id_rsa adında bir dosyaya PEM formatında kaydedilir.
 Genel anahtar ise, id_rsa.pub dosyasına SSH formatında kaydedilir.
 Sinyal Yakalama:
