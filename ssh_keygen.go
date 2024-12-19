@@ -14,7 +14,7 @@ import (
 
 )
 
-#Produced By K.Umut Araz
+//Produced By K.Umut Araz
 
 func main() {
 	sigs := make(chan os.Signal, 1)
