@@ -43,7 +43,6 @@ Program Sonlandırma:
 Anahtar oluşturma işlemi bittikten sonra, program "Çıkmak için Ctrl + C'ye basın..." mesajını gösterir ve kullanıcıdan bir sinyal bekler.
 Hata Mesajları:
 
-
 Eğer anahtar oluşturulurken bir hata olursa (örneğin, dosya yazılamazsa), program hata mesajlarını terminale yazar.
 Çalışma Akışı:
 Program başlar ve sinyalleri dinlemeye başlar.
