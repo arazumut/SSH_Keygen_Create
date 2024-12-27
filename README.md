@@ -13,6 +13,8 @@ RSA Anahtar Çifti Oluşturma:
 
 
 Program, 2048 bitlik bir RSA özel anahtar (private key) oluşturur.
+
+
 Bu özel anahtardan bir SSH uyumlu genel anahtar (public key) üretir.
 Anahtarları Dosyaya Yazma:
 
