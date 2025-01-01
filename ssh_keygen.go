@@ -45,6 +45,7 @@ func main() {
         fmt.Println("Özel anahtar dosyası oluşturulamadı:", err)
         return
     }
+    
     defer privateKeyFile.Close()
 
     // Özel anahtar PEM formatına çevirme ve dosyaya yazma
