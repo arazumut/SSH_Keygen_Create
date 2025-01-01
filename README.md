@@ -15,6 +15,7 @@ Go dilinde RSA tabanlı SSH anahtarları oluşturan bir programdır. Aynı zaman
 ![Ekran görüntüsü 2024-09-29 190327](https://github.com/user-attachments/assets/2b6f3eab-2a71-4626-b294-6492b4f53f92)
 
 - Program, 2048 bitlik bir RSA özel anahtar (private key) oluşturur.
+- 
 - Bu özel anahtardan bir SSH uyumlu genel anahtar (public key) üretir.
 
 ### Anahtarları Dosyaya Yazma:
