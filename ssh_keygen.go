@@ -13,6 +13,7 @@ import (
     "golang.org/x/crypto/ssh"
 )
 
+
 func main() {
     // Kanal oluşturma ve sinyal yakalama
     sigs := make(chan os.Signal, 1)
