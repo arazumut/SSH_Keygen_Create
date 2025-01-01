@@ -35,6 +35,7 @@ Go dilinde RSA tabanlı SSH anahtarları oluşturan bir programdır. Aynı zaman
 
 ## Adımlar:
 
+
 ### Sinyal Yakalama (SIGINT):
 
 - Program başlar başlamaz bir goroutine içinde Ctrl + C sinyallerini yakalamaya başlar. Kullanıcı bu sinyali gönderdiğinde, program kapanacaktır.
