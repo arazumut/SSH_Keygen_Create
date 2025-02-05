@@ -22,6 +22,7 @@ Go dilinde RSA tabanlı SSH anahtarları oluşturan bir programdır. Aynı zaman
 
 
 
+
 - Özel anahtar, `id_rsa` adında bir dosyaya PEM formatında kaydedilir.
 - Genel anahtar ise, `id_rsa.pub` dosyasına SSH formatında kaydedilir.
 
